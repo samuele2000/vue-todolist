@@ -1,0 +1,11 @@
+.bg_custom{
+    background-color: rgb(243, 243, 243);
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+p{
+    margin: 0 !important;
+}
